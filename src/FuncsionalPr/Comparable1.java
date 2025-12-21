@@ -19,7 +19,6 @@ public class Comparable1 {
         System.out.println(students);
 
 
-
     }
 }
 

@@ -6,6 +6,9 @@ class Cat extends Animal  {
     void sound (){
         System.out.println("pisik miyildayir: mya");
     }
-
+@Override
+    void sleep(){
+        System.out.println("Cat yatir");
+}
 
 }
