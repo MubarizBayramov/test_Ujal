@@ -7,6 +7,7 @@ public class equals {
         byte b  = 5;
         boolean c = a==b;
 
+
         System.out.println(c);
 
 
