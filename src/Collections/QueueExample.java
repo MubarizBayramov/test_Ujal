@@ -1,0 +1,13 @@
+package Collections;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class QueueExample {
+    public static void main(String[] args){
+        Queue<Integer> names = new LinkedList<>();
+        names.add(10);
+        System.out.println(names);
+    }
+}
+

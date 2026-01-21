@@ -8,7 +8,12 @@ public class RandomClass {
         Random random = new Random();
         int num  = random.nextInt(100);
 
+
+        int number2 = random.hashCode();
        System.out.println(num);
+        System.out.println(number2);
+
+
 
 
     }
