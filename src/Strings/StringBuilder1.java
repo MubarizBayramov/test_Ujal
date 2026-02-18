@@ -10,7 +10,7 @@ SB.append(" Mubariz");
 
 
  System.out.println(SB);
- System.out.println(SB);
+
 
 
     }

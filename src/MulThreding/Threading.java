@@ -18,8 +18,4 @@ public class Threading extends Thread{
         System.out.println("Thread basladi");
     }
 
-
-
-
-
 }

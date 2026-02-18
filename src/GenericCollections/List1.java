@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class List1 {
     public static void main(String[] args){
-        ArrayList <String> fruits = new ArrayList<>(); // array tekrara icaze verir
+        ArrayList <String> fruits = new ArrayList<>();// array tekrara icaze verir
         fruits.add("alma");
         fruits.add("armud");
         fruits.add("gilas");
@@ -30,9 +30,6 @@ for(String meyve : fruits){  // Dövr ilə çap etmək
     System.out.println(meyve);
 }
 
-
-
-
         LinkedList<String> Fruits = new LinkedList<>();
         Fruits.add("alma");
         Fruits.add("alma");
@@ -43,4 +40,7 @@ for(String meyve : fruits){  // Dövr ilə çap etmək
         System.out.println(Fruits);
 
     }
+
+
+
 }

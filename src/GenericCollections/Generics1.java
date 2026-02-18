@@ -10,8 +10,17 @@ public class Generics1 {
         list.add("Mubariz");
         list.add("Ay");
 
-        for(String a : list){
+                for(String a : list){
             System.out.println(a);
+        }
+
+
+
+        ArrayList<String> newString = new ArrayList<>();
+        newString.add("Yeni String");
+
+        for(String b: newString){
+            System.out.println(b);
         }
 
     }
